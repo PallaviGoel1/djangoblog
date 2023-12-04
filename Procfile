@@ -1,1 +1,1 @@
-web: gunicorn codestar23.wagi
+web: gunicorn codestar23.wsgi
