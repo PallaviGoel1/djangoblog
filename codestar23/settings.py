@@ -35,7 +35,8 @@ DEBUG = False
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
 #ALLOWED_HOSTS = ['codestart23.herokuapp.com', 'localhost']
-ALLOWED_HOSTS = ['8000-pallavigoel1-djangoblog-64fw9qot38w.ws-eu106.gitpod.io']
+#ALLOWED_HOSTS = ['8000-pallavigoel1-djangoblog-64fw9qot38w.ws-eu106.gitpod.io']
+ALLOWED_HOSTS = ['codestart23-dd91a8f6ed86.herokuapp.com']
 
 
 # Application definition
